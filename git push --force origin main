@@ -1,0 +1,47 @@
+[33mcommit b6e0cf6ad5439b1235277a93da5b3c36404d1d88[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: ethicalanp <ethicalanp66@gmail.com>
+Date:   Sat Jan 4 08:42:07 2025 +0530
+
+    Model Trainer
+
+[33mcommit 397dbd60db6ac8e318d9f9bf220de9bfc75afae3[m
+Author: ethicalanp <ethicalanp66@gmail.com>
+Date:   Fri Jan 3 15:08:43 2025 +0530
+
+    Data Transformation and Ingestion  Done
+
+[33mcommit 0c2baf79e19a4e229112ed1097d0ce8cca741266[m
+Author: ethicalanp <ethicalanp66@gmail.com>
+Date:   Thu Jan 2 21:52:05 2025 +0530
+
+    Data Ingestion
+
+[33mcommit 156acf10182609bc7b5c5aee1e27164b0ecd0e70[m
+Author: ethicalanp <ethicalanp66@gmail.com>
+Date:   Thu Jan 2 18:56:06 2025 +0530
+
+    EDA and Model training
+
+[33mcommit 16c85a9e4cf2ae1510f2b280567a1752d12f67e8[m
+Author: ethicalanp <ethicalanp66@gmail.com>
+Date:   Wed Jan 1 22:54:42 2025 +0530
+
+    loggingg and Exception
+
+[33mcommit 70b589247ea53e3e5893b191dad739115beb688d[m
+Author: ethicalanp <ethicalanp66@gmail.com>
+Date:   Wed Jan 1 15:51:49 2025 +0530
+
+    setup
+
+[33mcommit cfb173e5bd46401d46169d9982ad55bd32371327[m
+Author: EthicalAnp <133597398+ethicalanp@users.noreply.github.com>
+Date:   Wed Jan 1 15:00:30 2025 +0530
+
+    Create .gitignore
+
+[33mcommit ca025001b16b4751e4ade27687312ee46e412ac4[m
+Author: ethicalanp <ethicalanp66@gmail.com>
+Date:   Tue Dec 31 14:47:08 2024 +0530
+
+    First commit
