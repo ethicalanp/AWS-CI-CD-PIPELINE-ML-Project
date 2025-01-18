@@ -17,7 +17,7 @@ def get_requirements(file_path:str)->List[str]:
     return requirements
 
 setup(
-name='AWS-CI-CD-PIPELINE-ML-Project',
+name='ML-AWS',
 version='0.0.1',
 author='ethicalanp',
 author_email='ethicalanp66@gmail.com',
