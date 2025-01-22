@@ -1,9 +1,8 @@
 **Student Performance Prediction**
 
-Problem Statement
+**Problem Statement**
 
 The goal of this project is to understand how various factors affect a student's performance in tests, specifically focusing on test scores. The factors under consideration include:
-
 Gender
 Ethnicity
 Parental Level of Education
@@ -11,7 +10,8 @@ Lunch Type
 Test Preparation Course
 By analyzing these variables, the project aims to predict student performance based on the provided inputs.
 
-Project Overview
+
+**Project Overview**
 This project is designed as a real-life machine learning application. It encompasses all the steps required to develop, evaluate, and deploy a predictive model. Key features include:
 
 Exploratory Data Analysis (EDA): Investigating the dataset to uncover patterns, trends, and correlations.
