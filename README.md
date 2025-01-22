@@ -34,9 +34,15 @@ Deployment: Deploying the Flask app to AWS Elastic Beanstalk for a scalable and 
 **Technologies Used**
 
 Python 3.9: The main programming language used for the project.
+
 Pandas: For data manipulation and analysis.
+
 Matplotlib/Seaborn: For visualization during exploratory data analysis (EDA).
+
 Scikit-learn: For model training, evaluation, and hyperparameter tuning.
+
 Flask: For creating the prediction pipeline as a web application.
+
 AWS Elastic Beanstalk: For deploying the application in the cloud.
+
 Nginx: As a reverse proxy to serve the Flask app.
