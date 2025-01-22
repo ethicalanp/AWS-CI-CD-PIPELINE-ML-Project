@@ -12,6 +12,7 @@ By analyzing these variables, the project aims to predict student performance ba
 
 
 **Project Overview**
+
 This project is designed as a real-life machine learning application. It encompasses all the steps required to develop, evaluate, and deploy a predictive model. Key features include:
 
 Exploratory Data Analysis (EDA): Investigating the dataset to uncover patterns, trends, and correlations.
