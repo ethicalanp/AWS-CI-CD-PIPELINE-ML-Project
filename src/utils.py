@@ -41,15 +41,15 @@ def evaluate_models(X_train, y_train,X_test,y_test,models,param):
             model.set_params(**gs.best_params_)
 
             model.fit(X_train, y_train)
-            #para=param[list(models.keys())[i]]
+            para=param[list(models.keys())[i]]
 
-            #gs = GridSearchCV(model,para,cv=3)
-            #gs.fit(X_train,y_train)
+            gs = GridSearchCV(model,para,cv=3)
+            gs.fit(X_train,y_train)
 
-            #model.set_params(**gs.best_params_)
-            #model.fit(X_train,y_train)
+            model = model.__class__(**gs.best_params_)
+            model.fit(X_train,y_train)
 
-            #model.fit(X_train, y_train)  # Train model
+            model.fit(X_train, y_train)  # Train model
 
             y_train_pred = model.predict(X_train)
 
