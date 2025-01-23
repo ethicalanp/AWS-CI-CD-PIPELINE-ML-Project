@@ -1,4 +1,5 @@
-**Student Performance Prediction**
+**Student Performance Prediction** 
+
 
 **Problem Statement**
 
@@ -28,7 +29,9 @@ Hyperparameter Tuning: Fine-tuning model parameters to improve predictive accura
 Prediction Pipeline: Creating a REST API using Flask that predicts the test scores based on user input.
 
 Deployment: Deploying the Flask app to AWS Elastic Beanstalk for a scalable and accessible solution.
-
+**Deployed**
+"http://studentperformance.ap-south-1.elasticbeanstalk.com/"
+"http://studentperformance.ap-south-1.elasticbeanstalk.com/predictdata"  
 
 
 **Technologies Used**
