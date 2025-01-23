@@ -32,8 +32,6 @@ Deployment: Deploying the Flask app to AWS Elastic Beanstalk for a scalable and 
 
 **Deployed**
 
-"http://studentperformance.ap-south-1.elasticbeanstalk.com/"
-
 "http://studentperformance.ap-south-1.elasticbeanstalk.com/predictdata"  
 
 
