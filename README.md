@@ -28,11 +28,12 @@ Hyperparameter Tuning: Fine-tuning model parameters to improve predictive accura
 
 Prediction Pipeline: Creating a REST API using Flask that predicts the test scores based on user input.
 
-Deployment: Deploying the Flask app to AWS Elastic Beanstalk and Microsoft Azure .
+Deployment:did multiple Deployment techniques like the  AWS Elastic Beanstalk , and Microsoft Azure and also creating a AWS CI/CD pipeline for continues integration and deployment
+.
 
 **Deployed**
 
-"http://studentperformance.ap-south-1.elasticbeanstalk.com/predictdata"  
+"http://studentperformance.ap-south-1.elasticbeanstalk.com/predictdata" 
 
 
 **Technologies Used**
