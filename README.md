@@ -36,6 +36,7 @@ Deployment:did multiple Deployment techniques like the  AWS Elastic Beanstalk , 
 "http://studentperformance.ap-south-1.elasticbeanstalk.com/predictdata" 
 
 
+
 **Technologies Used**
 
 Python 3.9: The main programming language used for the project.

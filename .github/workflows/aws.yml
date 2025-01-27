@@ -2,10 +2,24 @@ name: workflow
 
 on:
   push:
+<<<<<<< HEAD
     branches:
       - main
     paths-ignore:
       - 'README.md'
+=======
+    branches: [ "main" ]
+
+env:
+  AWS_REGION: ap-south-1                   # set this to your preferred AWS region, e.g. us-west-1
+  ECR_REPOSITORY: studentperformance           # set this to your Amazon ECR repository name
+  ECS_SERVICE: MY_ECS_SERVICE                 # set this to your Amazon ECS service name
+  ECS_CLUSTER: MY_ECS_CLUSTER                 # set this to your Amazon ECS cluster name
+  ECS_TASK_DEFINITION: MY_ECS_TASK_DEFINITION # set this to the path to your Amazon ECS task definition
+                                               # file, e.g. .aws/task-definition.json
+  CONTAINER_NAME: MY_CONTAINER_NAME           # set this to the name of the container in the
+                                               # containerDefinitions section of your task definition
+>>>>>>> 6498628241a1f30d26aa66a74fb81d83313b1ee8
 
 permissions:
   id-token: write
