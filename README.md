@@ -35,6 +35,7 @@ pushed docker image to AWS ECR and EC2 instances for access and scalability.
 **Deployed**
 
 "http://studentperformance.ap-south-1.elasticbeanstalk.com/predictdata" 
+"http://43.204.215.253:8080/predictdata" 
 
 
 
