@@ -49,8 +49,12 @@ Matplotlib/Seaborn: For visualization during exploratory data analysis (EDA).
 
 Scikit-learn: For model training, evaluation, and hyperparameter tuning.
 
-Flask: For creating the prediction pipeline as a web application.
+Flask: For creating the a web application.
 
-AWS Elastic Beanstalk: For deploying the application in the cloud.
+AWS Elastic Beanstalk: For deploying the application in the cloud also implemented AWS codepipeline .
 
 Nginx: As a reverse proxy to serve the Flask app.
+
+Used Docker for Building Image for Deploying.
+
+Pushed the Docker Image to The AWS ECR repositry and Deployed in EC2 instance with CI-CD pipeline implimentation.
