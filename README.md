@@ -38,7 +38,6 @@ pushed docker image to AWS ECR and EC2 instances for access and scalability.
 "http://43.204.215.253:8080/predictdata" 
 
 
-
 **Technologies Used**
 
 Python 3.9: The main programming language used for the project.
